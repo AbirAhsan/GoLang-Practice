@@ -6,4 +6,5 @@ func main() {
 	constant()
 	showZeroValues()
 	showVariable1()
+	showOperator()
 }
