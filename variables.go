@@ -12,3 +12,13 @@ func showVariable() {
 
 	fmt.Println(b)
 }
+
+func showVariable1() {
+	var x int8 = 'a'
+	var y uint8 = 255
+
+	var f1 float32 = 4.8675775756565
+	var f2 float64 = 4.8675775756565
+
+	fmt.Println(x, y, f1, f2)
+}

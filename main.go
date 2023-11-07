@@ -5,4 +5,5 @@ func main() {
 	showVariable()
 	constant()
 	showZeroValues()
+	showVariable1()
 }
