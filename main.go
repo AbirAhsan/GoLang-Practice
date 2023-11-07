@@ -7,4 +7,5 @@ func main() {
 	showZeroValues()
 	showVariable1()
 	showOperator()
+	showIfConditions()
 }
