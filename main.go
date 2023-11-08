@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 func main() {
 	printHelloWorld()
 	showVariable()
@@ -8,4 +10,7 @@ func main() {
 	showVariable1()
 	showOperator()
 	showIfConditions()
+	a, b := returnParameters(5, 3)
+
+	fmt.Println(a, b)
 }
