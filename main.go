@@ -24,4 +24,5 @@ func main() {
 	practiceMap()
 	practiceStruct()
 	pointerPractice()
+	methodPractice()
 }
