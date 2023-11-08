@@ -23,4 +23,5 @@ func main() {
 	slicePractice()
 	practiceMap()
 	practiceStruct()
+	pointerPractice()
 }
