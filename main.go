@@ -21,4 +21,5 @@ func main() {
 	practiceFunction()
 	arrayPractice()
 	slicePractice()
+	practiceMap()
 }
