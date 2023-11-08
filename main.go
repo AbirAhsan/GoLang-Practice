@@ -19,5 +19,6 @@ func main() {
 	passByreference(&value)
 	fmt.Println("value change by reference", value)
 	practiceFunction()
+	arrayPractice()
 
 }
