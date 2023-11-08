@@ -20,5 +20,5 @@ func main() {
 	fmt.Println("value change by reference", value)
 	practiceFunction()
 	arrayPractice()
-
+	slicePractice()
 }
