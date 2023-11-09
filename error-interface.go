@@ -35,6 +35,7 @@ func SuperDivide(a, b int) (int, error) {
 }
 
 func errorPractice() {
+
 	fmt.Println(divide(4, 0))
 
 	res, err := divide(4, 1)

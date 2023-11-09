@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+
 	printHelloWorld()
 	showVariable()
 	constant()
@@ -26,4 +27,5 @@ func main() {
 	pointerPractice()
 	methodPractice()
 	errorPractice()
+	practicePanic()
 }
